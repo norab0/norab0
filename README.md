@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Nora</h1>
+<h1 align="left">👋 Hey, I'm Nora</h1>
 
 <p align="center">
   💻 Software Development Student at <strong>EFREI Paris</strong><br/>
