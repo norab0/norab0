@@ -10,17 +10,17 @@
 
 ## 💻 Currently Learning
 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%23F8D8FA?style=for-the-badge&logo=swagger&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%23F3C6E6?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%23E7D5EC?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%23DCCEF9?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-%23D6E0F5?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23CADBFF?style=for-the-badge&logo=jenkins&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23BFD2FA?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23B4C9F0?style=for-the-badge&logo=express&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%23AAC0ED?style=for-the-badge&logo=render&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%239FB7E8?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%2395AEE2?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
