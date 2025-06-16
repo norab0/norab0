@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hey, I'm Nora</h1>
 
-<p align="center">
+<p align="left">
   💻 Software Development Student at <strong>EFREI Paris</strong><br/>
   🌍 Based in Paris<br/>
   🚀 Passionate about building web apps & learning fullstack development
