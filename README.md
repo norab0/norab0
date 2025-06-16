@@ -6,7 +6,6 @@
   🚀 Passionate about building web apps & learning fullstack development
 </p>
 
----
 
 
 <details>
@@ -34,7 +33,6 @@
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 </details>
----
 
 <details>
   <summary><b>🧠 Currently Learning</b></summary>
@@ -47,17 +45,6 @@
   </p>
 </details>
 
----
-
-## ✨ Quote I Like
-
-<p align="center">
-  <img height="90" src="https://user-images.githubusercontent.com/46668755/208438149-7a118997-5359-4838-bf52-0cb462db6508.gif" /><br/>
-  <em>"Keep going — you're getting better than you were yesterday."</em><br/>
-  <strong>– Unknown</strong>
-</p>
-
----
 
 ## 📫 Let's Connect
 
