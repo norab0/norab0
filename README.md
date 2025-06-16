@@ -47,25 +47,9 @@
 
 ---
 
-## 🧠 Dev Mindset
-
-![OOP](https://img.shields.io/badge/Object--Oriented_Programming-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Clean Code](https://img.shields.io/badge/Clean_Code-0F4C81?style=for-the-badge&logo=read-the-docs&logoColor=white)
-![Frontend Tooling](https://img.shields.io/badge/Frontend_Tooling-00C1D4?style=for-the-badge&logo=webpack&logoColor=white)
-
----
-
-## 🛠 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
 ## 📊 GitHub Stats
 
-![Nora's GitHub stats](https://github-readme-stats.vercel.app/api?username=norab0&theme=dracula&bg_color=f8d8fa)
+![Nora's GitHub stats](https://github-readme-stats.vercel.app/api?username=norab0&theme=dracula&bg_color=e7d5ec)
 
 ---
 
