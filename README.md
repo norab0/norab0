@@ -86,8 +86,7 @@
 </details>
 
 ## 📊 GitHub Stats
-![Nora's GitHub stats](https://github-readme-stats.vercel.app/api?username=norab0&theme=react&bg_color=FF69B400&hide_border=false&include_all_commits=false&count_private=false)
-
+![Nora's GitHub stats](https://github-readme-stats.vercel.app/api?username=norab0&theme=draculabg_color=FF69B400)
 
 ---
 ## 📫 Let's Connect
