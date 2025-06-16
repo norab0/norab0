@@ -86,11 +86,9 @@
 </details>
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=norab0&theme=dracula)
-
-![Nora's GitHub stats](https://github-readme-stats.vercel.app/api?username=norab0&theme=merko&hide_border=false&include_all_commits=false&count_private=false)  
-![Nora's GitHub streak](https://nirzak-streak-stats.vercel.app/?user=norab0&theme=merko&hide_border=false)  
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=norab0&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![Nora's GitHub stats](https://github-readme-stats.vercel.app/api?username=norab0&theme=dracula&bg_color=00000000&hide_border=false&include_all_commits=false&count_private=false)  
+![Nora's GitHub streak](https://nirzak-streak-stats.vercel.app/?user=norab0&theme=dracula&bg_color=00000000&hide_border=false)  
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=norab0&theme=dracula&bg_color=00000000&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ---
 ## 📫 Let's Connect
