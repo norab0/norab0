@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hey, I'm Nora
 
-<!--
-**norab0/norab0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ **Currently**: Software development student at **EFREI**  
+📍 Based in Paris  
+💻 Learning fullstack web development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies I Use
+
+HTML • CSS • SCSS • JavaScript • TypeScript  
+Angular • WordPress • Bootstrap • TailwindCSS  
+C# • .NET • ASP.NET • Java  
+Git • GitHub • VSCode
+
+---
+
+## 🧠 Currently Exploring
+
+- React  
+- Object-Oriented Programming (OOP)  
+- Clean code & best practices  
+- Frontend frameworks & modern tooling  
+
+---
+
+## ✨ Quote I like
+
+> "Keep going — you're getting better than you were yesterday."
+
+---
+
+## 📫 Let’s Connect
+
+[LinkedIn](https://www.linkedin.com/in/nora-boudarbala/)  
+[GitHub](https://github.com/norab0)
