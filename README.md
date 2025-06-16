@@ -65,7 +65,7 @@
 
 ## 📊 GitHub Stats
 
-![Nora's GitHub stats](https://github-readme-stats.vercel.app/api?username=norab0&theme=dracula&bg_color=FF69B4)
+![Nora's GitHub stats](https://github-readme-stats.vercel.app/api?username=norab0&theme=dracula&bg_color=white)
 
 ---
 
