@@ -18,7 +18,6 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23CADBFF?style=for-the-badge&logo=jenkins&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23BFD2FA?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23B4C9F0?style=for-the-badge&logo=express&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%23AAC0ED?style=for-the-badge&logo=render&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%239FB7E8?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%2395AEE2?style=for-the-badge&logo=vercel&logoColor=white)
 
