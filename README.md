@@ -55,7 +55,6 @@
 ## 📊 GitHub Stats
 
 ![Nora's GitHub stats](https://github-readme-stats.vercel.app/api?username=norab0&theme=dracula&bg_color=e7d5ec)
-<img src="https://komarev.com/ghpvc/?username=norab0&style=flat-square&color=BFD2FA" alt="Profile views"/>
 
 ---
 
@@ -69,4 +68,8 @@
   <a href="https://github.com/norab0" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=norab0&style=flat-square&color=BFD2FA" alt="Profile views"/>
+
 </p>
