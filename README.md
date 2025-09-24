@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=norab0&style=flat-square&color=BFD2FA" alt="Profile views"/>
 
 </p>
